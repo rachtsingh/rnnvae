@@ -10,5 +10,7 @@ for larger datasets and save to an HDF5 file. I'll do that later and merge upstr
 Unfortunately, I think there's some hyperparameter magic necessary to reproduce the results exactly, and I don't have 
 enough GPU time to do it at the moment. 
 
+Based on the framework of https://github.com/salesforce/awd-lstm-lm
+
 ### Bibliography
 Bowman, Samuel R., et al. "Generating sentences from a continuous space." arXiv preprint arXiv:1511.06349 (2015).

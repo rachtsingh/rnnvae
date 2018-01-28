@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+
+*.log
+**/*.log
+logs/
+models/
+data/
+
+# TeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+
+# virtualenv
+.venv
+venv/
